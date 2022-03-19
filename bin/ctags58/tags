@@ -1,0 +1,51 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ETD	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETD_TIMER=0, ETD_DELAY, ETD_TIMEREND} ETD; $/;"	typedef	line:28	typeref:enum:uint8_t
+ETD_DELAY	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETD_TIMER=0, ETD_DELAY, ETD_TIMEREND} ETD; $/;"	enumerator	line:28	enum:uint8_t
+ETD_TIMER	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETD_TIMER=0, ETD_DELAY, ETD_TIMEREND} ETD; $/;"	enumerator	line:28	enum:uint8_t
+ETD_TIMEREND	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETD_TIMER=0, ETD_DELAY, ETD_TIMEREND} ETD; $/;"	enumerator	line:28	enum:uint8_t
+ETO	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETO_S=0, ETO_C, ETO_SC, ETO_SCE, ETO_SE, ETO_CE} ETO; $/;"	typedef	line:29	typeref:enum:uint8_t
+ETO_C	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETO_S=0, ETO_C, ETO_SC, ETO_SCE, ETO_SE, ETO_CE} ETO; $/;"	enumerator	line:29	enum:uint8_t
+ETO_CE	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETO_S=0, ETO_C, ETO_SC, ETO_SCE, ETO_SE, ETO_CE} ETO; $/;"	enumerator	line:29	enum:uint8_t
+ETO_S	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETO_S=0, ETO_C, ETO_SC, ETO_SCE, ETO_SE, ETO_CE} ETO; $/;"	enumerator	line:29	enum:uint8_t
+ETO_SC	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETO_S=0, ETO_C, ETO_SC, ETO_SCE, ETO_SE, ETO_CE} ETO; $/;"	enumerator	line:29	enum:uint8_t
+ETO_SCE	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETO_S=0, ETO_C, ETO_SC, ETO_SCE, ETO_SE, ETO_CE} ETO; $/;"	enumerator	line:29	enum:uint8_t
+ETO_SE	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETO_S=0, ETO_C, ETO_SC, ETO_SCE, ETO_SE, ETO_CE} ETO; $/;"	enumerator	line:29	enum:uint8_t
+TASK_HOUR	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	13;"	macro	line:13
+TASK_HOUR	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	20;"	macro	line:20
+TASK_MILLISECOND	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	10;"	macro	line:10
+TASK_MILLISECOND	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	17;"	macro	line:17
+TASK_MINUTE	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	12;"	macro	line:12
+TASK_MINUTE	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	19;"	macro	line:19
+TASK_SECOND	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	11;"	macro	line:11
+TASK_SECOND	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	18;"	macro	line:18
+Task	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^class Task$/;"	class	line:57
+TaskCallback	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^    typedef std::function<void()> TaskCallback;$/;"	typedef	line:59	class:Task	access:private
+TaskDelay	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^class TaskDelay$/;"	class	line:32
+TaskScheduler	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^class TaskScheduler {$/;"	class	line:112
+_ID	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  uint8_t _ID = 0;$/;"	member	line:63	class:Task	access:private
+_TASKSCHEDULER_H	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	2;"	macro	line:2
+_TASK_MICRO_RES	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	6;"	macro	line:6
+_TaskArray	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  Task * _TaskArray = nullptr;$/;"	member	line:114	class:TaskScheduler	access:public
+_TaskArrayCnt	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  uint8_t _TaskArrayCnt = 0;$/;"	member	line:116	class:TaskScheduler	access:public
+_TaskArrayMax	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  uint8_t _TaskArrayMax = 0;$/;"	member	line:115	class:TaskScheduler	access:public
+_callback	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  TaskCallback _callback        = nullptr;$/;"	member	line:73	class:Task	access:private
+_callbackOend	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  TaskCallback _callbackOend    = nullptr;$/;"	member	line:72	class:Task	access:private
+_callbackOstart	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  TaskCallback _callbackOstart  = nullptr;$/;"	member	line:71	class:Task	access:private
+_delay	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  TaskDelay * _delay    = nullptr;$/;"	member	line:82	class:Task	access:public
+_delay	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  uint32_t      _delay      = 0;$/;"	member	line:35	class:TaskDelay	access:private
+_enabled	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  boolean       _enabled    = false; $/;"	member	line:36	class:TaskDelay	access:private
+_enabled	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  boolean   _enabled  = false;$/;"	member	line:69	class:Task	access:private
+_iteration_cnt	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  uint8_t   _iteration_cnt      = 0;$/;"	member	line:65	class:Task	access:private
+_iteration_max	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  int       _iteration_max      = 0;$/;"	member	line:66	class:Task	access:private
+_iteration_next_greater	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  boolean   _iteration_next_greater = true;$/;"	member	line:67	class:Task	access:private
+_last	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  unsigned long _last =      0;$/;"	member	line:34	class:TaskDelay	access:private
+_osMode	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  ETO _osMode = ETO_S;$/;"	member	line:61	class:Task	access:private
+_timer	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  TaskDelay * _timer    = nullptr;$/;"	member	line:83	class:Task	access:public
+_timerEnd	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^  TaskDelay * _timerEnd = nullptr;$/;"	member	line:84	class:Task	access:public
+uint8_t	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETD_TIMER=0, ETD_DELAY, ETD_TIMEREND} ETD; $/;"	enum	line:28
+uint8_t	D:\programmation_code\Arduino\Arduino_Projet\0A_projet\2_mylib_v1\include\TaskScheduler.h	/^typedef enum : uint8_t {ETO_S=0, ETO_C, ETO_SC, ETO_SCE, ETO_SE, ETO_CE} ETO; $/;"	enum	line:29
